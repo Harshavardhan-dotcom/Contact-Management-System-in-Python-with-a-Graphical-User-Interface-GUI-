@@ -1,0 +1,10 @@
+Introduction:
+The Contact Management System is a Python-based application designed to manage and organize a list of contacts efficiently. This project helps users store, update, and delete contact details like name, address, gender, and phone number, all within a simple GUI created using the Tkinter module. The system’s primary purpose is to allow users to store personal information and maintain an organized contact list, which can be modified as needed.
+
+This project is a great way to demonstrate how Python can be used to build functional GUI applications. It’s also an excellent learning tool for beginners to improve their skills in Python programming, especially in creating GUI-based applications using Tkinter.
+
+Features of the Contact Management System:
+View All Contacts: On launching the application, the user can view all stored contacts.
+Add Contacts: Users can add new contacts by filling out the form with relevant details.
+Update Contacts: The system allows users to modify existing contact details by double-clicking on a particular entry.
+Delete Contacts: Users can remove any contact from the list by selecting it and clicking the delete button.

@@ -1,0 +1,14 @@
+Follow the steps below to run the Contact Management System on your machine:
+
+Download Python:
+
+Make sure Python is installed. You can download it from here.
+Extract the Project:
+
+Extract the downloaded ZIP file containing the project.
+Open the Project:
+
+Navigate to the project folder and open the index.py file using Python’s IDLE.
+Run the Script:
+
+Press F5 or click on the Run menu, and select Run Module to execute the code. This will launch the contact management system.

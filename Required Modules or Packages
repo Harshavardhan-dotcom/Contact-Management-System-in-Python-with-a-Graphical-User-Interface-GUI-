@@ -1,0 +1,14 @@
+The system was developed using Tkinter, which is a Python package used for building simple GUI applications. Below are the essential packages required for this project:
+
+Tkinter:
+Used for building the graphical user interface (GUI).
+Provides various widgets such as buttons, text fields, and tables, which are essential for creating the contact management system.
+Installation:
+pip install tk
+SQLite3:
+Used for managing the database that stores all the contact details.
+SQLite is a lightweight, file-based database that requires minimal configuration and works well for small applications.
+No external installation is required for SQLite, as it comes bundled with Python.
+Dependencies:
+Python 3.x: Ensure Python is installed on your system.
+Tkinter Library: Tkinter is part of the Python Standard Library, but you might need to install it manually, depending on your OS
